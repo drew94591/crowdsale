@@ -1,4 +1,4 @@
-# Kasei Coin Crowdsale
+# KaseiCoin Crowdsale
 This application creates a fungible token that is ERC-20 compliant and that will be minted by using a `Crowdsale` contract from the OpenZeppelin Solidity library.  The crowdsale contract will manage the entire crowdsale process, allowing users to send ether to the contract and in return receive KAI, or KaseiCoin tokens. The contract mints the tokens automatically and distributes them to buyers in one transaction.
 
 ---
